@@ -1,9 +1,9 @@
 ---
 headless: true
-title: "welcome to my blog~!"
+title: "Compiled Art"
 intro: 
-  - "this is an example introduction. feel free to customize it!"
-  - "add more lines to make it personal."
+  - "Art from ATC"
+  - "Art Tech and Computing"
 image: "/cat.png"
 list:
   name: "things i love:"

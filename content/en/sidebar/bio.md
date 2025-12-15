@@ -1,6 +1,6 @@
 ---
 headless: true
 ---
-meow! mochi here, your purrfect companion
+yay
 
 rawr do you like my blog?
